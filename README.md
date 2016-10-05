@@ -1,2 +1,6 @@
 # hello-world
-trying..
+// My first try
+main()
+{
+// do nothing
+}
